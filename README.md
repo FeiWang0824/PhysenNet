@@ -14,9 +14,13 @@ Most of the neural networks proposed so far for computational imaging (CI) in op
 ## How to use
 ### Step 1: Configuring required packages
 python 3.6
+
 tensorflow 1.9.0
+
 matplotlib 3.1.3
+
 numpy 1.18.1
+
 pillow 7.1.2
 
 ### Step 2: Run main.py after download and extract the PhysenNet-main file.
