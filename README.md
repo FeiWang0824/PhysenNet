@@ -27,6 +27,7 @@ pillow 7.1.2
 **Step 2: Run main.py after download and extract the ZIP file.**
 
 ## Results
+![avatar](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41377-020-0302-3/MediaObjects/41377_2020_302_Fig3_HTML.png?as=webp)
 ![avatar](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41377-020-0302-3/MediaObjects/41377_2020_302_Fig5_HTML.png?as=webp)
 
 
