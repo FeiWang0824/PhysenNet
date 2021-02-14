@@ -23,7 +23,7 @@ Most of the neural networks proposed so far for computational imaging (CI) in op
 ![avatar](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41377-020-0302-3/MediaObjects/41377_2020_302_Fig1_HTML.png?as=webp)
 
 ## Results
-![avatar](https://www.nature.com/articles/s41377-020-0302-3/figures/5)
+![avatar](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41377-020-0302-3/MediaObjects/41377_2020_302_Fig5_HTML.png?as=webp)
 
 
 
