@@ -7,7 +7,7 @@ If you find this project useful, we would be grateful if you cite the PhysenNet 
 
 Fei Wang, Yaoming Bian, Haichao Wang, Meng Lyu, Giancarlo Pedrini, Wolfgang Osten, George Barbastathis and Guohai Situ. Phase imaging with an untrained neural network. *Light Sci Appl* **9**, 77 (2020).
 
->@article{PhysenNet2020,
+@article{PhysenNet2020,
 author = {Wang, Fei and Bian, Yaoming and Wang, Haichao and Lyu, Meng and Pedrini, Giancarlo and Osten, Wolfgang and Barbastathis, George and Situ, Guohai},
 journal = {Light: Science & Applications},
 title = {Phase imaging with an untrained neural network},
