@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-@author: Fei Wang
-E-mail: WangFei_m@outlook.com
-"""
-
 import tensorflow as tf
 
 def weight_variable(shape, name=None):
