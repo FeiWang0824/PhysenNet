@@ -12,7 +12,7 @@ Most of the neural networks proposed so far for computational imaging (CI) in op
 ![avatar](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41377-020-0302-3/MediaObjects/41377_2020_302_Fig1_HTML.png?as=webp)
 
 ## How to use
-**Step 1:** Configuring required packages
+**Step 1: Configuring required packages**
 python 3.6
 
 tensorflow 1.9.0
@@ -23,7 +23,7 @@ numpy 1.18.1
 
 pillow 7.1.2
 
-**Step 2:** Run main.py after download and extract the ZIP file.
+**Step 2: Run main.py after download and extract the ZIP file.**
 
 ## Results
 ![avatar](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41377-020-0302-3/MediaObjects/41377_2020_302_Fig5_HTML.png?as=webp)
