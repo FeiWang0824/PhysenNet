@@ -3,7 +3,7 @@
 Tensorflow implementation of paper: [Phase imaging with an untrained neural network.](https://www.nature.com/articles/s41377-020-0302-3) We provide the experiment data for demonstration and a quick demo.
 
 ## Citation
-Fei Wang, Yaoming Bian, Haichao Wang, Meng Lyu, Giancarlo Pedrini, Wolfgang Osten, George Barbastathis and Guohai Situ. Phase imaging with an untrained neural network. Light Sci Appl 9, 77 (2020).
+Fei Wang, Yaoming Bian, Haichao Wang, Meng Lyu, Giancarlo Pedrini, Wolfgang Osten, George Barbastathis and Guohai Situ. Phase imaging with an untrained neural network. *Light Sci Appl*' **9**, 77 (2020).
 
 ## Requirements
 python 3.6
