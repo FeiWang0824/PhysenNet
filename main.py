@@ -104,7 +104,7 @@ with tf.Session() as sess:
             temp_m_loss.append(m_loss[step])
             if m_loss[step]<=np.min(temp_m_loss):
                 min_saved_loss = m_loss[step]
-                saver.save(sess, model_save_path)
+                # saver.save(sess, model_save_path)
                 
                 new_rand = np.random.uniform(0, 0.0, size=(dim,dim))
                 pha_out = sess.run(out, feed_dict={rand: new_rand}).reshape(dim,dim)            
