@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-@author: Fei Wang
-E-mail: WangFei_m@outlook.com
-"""
-
 import tensorflow as tf
 from tensorflow.python.framework import ops
 
